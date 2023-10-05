@@ -14,3 +14,4 @@ As for doing this yourself: No guarantees or warranty given! ... and check for s
 
 Like ... don't leave any nuts under the motherboard that could, say, cause the fuse to blow. Totally random example!
 
+Also please note that my machine is the European cost-reduced (CR) version.
