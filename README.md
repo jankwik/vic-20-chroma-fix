@@ -1,4 +1,8 @@
-## Non-destructive VIC-20 chroma fix
+# MOVED
+
+https://codeberg.org/jankwik/vic-20-chroma-fix
+
+### Non-destructive VIC-20 chroma fix
 
 Please refer to this blog entry for the technical details: [vic-20-and-the-non-destructive-chroma-luma-fix](https://rogne-wik.no/blog/vic-20-and-the-non-destructive-chroma-luma-fix).
 
